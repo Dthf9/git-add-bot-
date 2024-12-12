@@ -3,6 +3,8 @@ from aiogram.filters.command import Command
 import asyncio
 import requests
 
+#https://web.telegram.org/k/#@weatherichang_bot#
+
 TOKEN = '7704086214:AAHe9WUgkKp3Qs-SBr-ju_5XZiON0x_keHI'
 bot = Bot(TOKEN)
 dp = Dispatcher()
